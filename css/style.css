@@ -280,6 +280,7 @@ section {
     margin-top: 18px
 }
 
+<<<<<<< HEAD
 /* .t3 {
     background: var(--teal);
     color: var(--ink);
@@ -293,6 +294,8 @@ section {
     margin-top: 18px
 } */
 
+=======
+>>>>>>> a0689c6d3d607fc9f7dfdc91eadc66a290ec8631
 .tile:hover {
     transform: rotate(0) translateY(-8px)
 }
@@ -818,4 +821,8 @@ footer li {
         opacity: 1;
         transform: none
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a0689c6d3d607fc9f7dfdc91eadc66a290ec8631

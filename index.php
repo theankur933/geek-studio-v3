@@ -1,0 +1,427 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Geek Studio IT Solutions – Managed IT &amp; Cyber Security</title>
+    <meta name="description" content="Managed IT, cyber security and cloud services for growing businesses.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <?php include 'header.php' ?>
+    <section id="services">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 reveal" style="max-width:700px">
+                <span class="tag">Our services</span>
+                <h2 class="sec-title">One partner for your
+                    <span class="hl">entire IT stack</span>
+                </h2>
+            </div>
+            <div class="bento">
+                <div class="bc v reveal">
+                    <div class="ic">
+                        <i class="bi bi-pc-display"></i>
+                    </div>
+                    <h3>Managed IT</h3>
+                    <p>Ongoing support, updates and expert guidance for every device, user and system, with less downtime and predictable costs.</p>
+                    <a href="#lead">Get a quote
+                        <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+                <div class="bc p reveal">
+                    <div class="ic">
+                        <i class="bi bi-shield-lock"></i>
+                    </div>
+                    <h3>Cyber Security</h3>
+                    <p>Continuous monitoring, automatic patching, threat detection and DDoS mitigation to keep attackers out.</p>
+                    <a href="#lead">Get a quote
+                        <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+                <div class="bc t reveal">
+                    <div class="ic">
+                        <i class="bi bi-cloud-arrow-up"></i>
+                    </div>
+                    <h3>Cloud Computing</h3>
+                    <p>Move to the cloud or get more from it, with secure setups that scale and stay online through outages.</p>
+                    <a href="#lead">Get a quote
+                        <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+                <div class="bc y reveal">
+                    <div class="ic">
+                        <i class="bi bi-database"></i>
+                    </div>
+                    <h3>Data Services</h3>
+                    <p>Find, organise and automate access to your business data, so your team gets answers faster.</p>
+                    <a href="#lead">Get a quote
+                        <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+                <div class="bc w reveal">
+                    <div class="ic">
+                        <i class="bi bi-lightbulb"></i>
+                    </div>
+                    <h3>IT Consulting</h3>
+                    <p>Clear, practical advice on your technology roadmap, from cost savings to new systems that support growth.</p>
+                    <a href="#lead">Get a quote
+                        <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+                <div class="bc cta reveal">
+                    <div>
+                        <h3>Not sure what you need?</h3>
+                        <p>Start with a free assessment. We'll review your setup and tell you exactly what to fix first.</p>
+                    </div>
+                    <a href="#lead" class="btn">Get my free assessment</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="background:#F3EEFF">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 reveal" style="max-width:700px">
+                <span class="tag">The difference</span>
+                <h2 class="sec-title">Is technology
+                    <span class="hl pk">slowing you down?</span>
+                </h2>
+                <p class="text-mut fs-5 mt-3">Most growing businesses don't have a full IT team. That's where problems start.</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-6 reveal">
+                    <div class="ba bad">
+                        <h3>Without a partner</h3>
+                        <ul>
+                            <li>
+                                <i class="bi bi-x-circle-fill"></i>Downtime costs you money: crashes and outages stop your team and your customers.
+                            </li>
+                            <li>
+                                <i class="bi bi-x-circle-fill"></i>Ransomware, phishing and data leaks hit small businesses hardest, with no warning.
+                            </li>
+                            <li>
+                                <i class="bi bi-x-circle-fill"></i>No one owns IT: updates get missed, backups go untested, every issue is an emergency.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 reveal">
+                    <div class="ba good">
+                        <h3>With Geek Studio</h3>
+                        <ul>
+                            <li>
+                                <i class="bi bi-check-circle-fill"></i>Proactive fixes and less downtime, so work keeps flowing.
+                            </li>
+                            <li>
+                                <i class="bi bi-check-circle-fill"></i>Threat detection, patching and DDoS protection running around the clock.
+                            </li>
+                            <li>
+                                <i class="bi bi-check-circle-fill"></i>A dedicated team that owns your IT, with predictable costs.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="how">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 reveal" style="max-width:700px">
+                <span class="tag">How it works</span>
+                <h2 class="sec-title">Up and running in
+                    <span class="hl tl">three simple steps</span>
+                </h2>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-4 reveal">
+                    <div class="stp s1">
+                        <span class="n">1</span>
+                        <div class="ic">
+                            <i class="bi bi-search"></i>
+                        </div>
+                        <h3 class="h4">Free IT assessment</h3>
+                        <p class="text-mut mb-0">We review your devices, network, cloud and security, and show you the risks and quick wins.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 reveal">
+                    <div class="stp s2">
+                        <span class="n">2</span>
+                        <div class="ic">
+                            <i class="bi bi-clipboard-check"></i>
+                        </div>
+                        <h3 class="h4">A plan built for you</h3>
+                        <p class="text-mut mb-0">You get a clear proposal with the services you need, and nothing you don't, at a fixed price.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 reveal">
+                    <div class="stp s3">
+                        <span class="n">3</span>
+                        <div class="ic">
+                            <i class="bi bi-rocket-takeoff"></i>
+                        </div>
+                        <h3 class="h4">We manage it, 24/7</h3>
+                        <p class="text-mut mb-0">Our team monitors, maintains and protects your systems around the clock, and fixes issues before you notice.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="why" style="padding-top:20px">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-5 reveal">
+                    <div class="whybox">
+                        <span class="tag">Why Geek Studio</span>
+                        <h2 class="sec-title">A technology partner, not just a help desk</h2>
+                        <p class="mt-3 mb-4" style="color:#C9C1E6">Enterprise-grade IT, tuned to your size and budget.</p>
+                        <a href="#lead" class="btn btn-pink">Talk to an engineer</a>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="row g-3">
+                        <div class="col-md-6 reveal">
+                            <div class="why c1">
+                                <i class="bi bi-bullseye"></i>
+                                <div>
+                                    <h4>Tailored solutions</h4>
+                                    <p>Every plan is built around your goals, team size and budget.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 reveal">
+                            <div class="why c2">
+                                <i class="bi bi-award"></i>
+                                <div>
+                                    <h4>Expert team</h4>
+                                    <p>Certified engineers who solve complex problems quickly.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 reveal">
+                            <div class="why c3">
+                                <i class="bi bi-piggy-bank"></i>
+                                <div>
+                                    <h4>Cost-effective</h4>
+                                    <p>Enterprise-grade IT without the cost of an in-house department.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 reveal">
+                            <div class="why c4">
+                                <i class="bi bi-headset"></i>
+                                <div>
+                                    <h4>24/7 support</h4>
+                                    <p>Real people ready to help, day or night.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 reveal">
+                            <div class="why c2">
+                                <i class="bi bi-patch-check"></i>
+                                <div>
+                                    <h4>Security &amp; compliance</h4>
+                                    <p>Solutions that meet industry standards and protect your data.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 reveal">
+                            <div class="why c1">
+                                <i class="bi bi-activity"></i>
+                                <div>
+                                    <h4>Proactive, not reactive</h4>
+                                    <p>We spot and fix issues early, so downtime stays rare.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="background:#FFF1E0">
+        <div class="container">
+            <h2 class="sec-title text-center mb-5 reveal">What our clients say</h2>
+            <div class="row g-4">
+                <div class="col-md-4 reveal">
+                    <figure class="quote">
+                        <div class="stars">
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                        </div>
+                        <blockquote>“[Real client review: 1–3 sentences on the result you delivered.]”</blockquote>
+                        <figcaption class="text-mut">
+                            <strong class="text-dark">[Client name]</strong>, [Role, Company]
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-md-4 reveal">
+                    <figure class="quote">
+                        <div class="stars">
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                        </div>
+                        <blockquote>“[Real client review: 1–3 sentences on the result you delivered.]”</blockquote>
+                        <figcaption class="text-mut">
+                            <strong class="text-dark">[Client name]</strong>, [Role, Company]
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-md-4 reveal">
+                    <figure class="quote">
+                        <div class="stars">
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                            <i class="bi bi-star-fill"></i>
+                        </div>
+                        <blockquote>“[Real client review: 1–3 sentences on the result you delivered.]”</blockquote>
+                        <figcaption class="text-mut">
+                            <strong class="text-dark">[Client name]</strong>, [Role, Company]
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="faq">
+        <div class="container" style="max-width:820px">
+            <h2 class="sec-title text-center mb-5 reveal">Frequently asked questions</h2>
+            <div class="accordion reveal" id="faqs">
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#f1">What does the free IT assessment include?</button>
+                    </h3>
+                    <div id="f1" class="accordion-collapse collapse show" data-bs-parent="#faqs">
+                        <div class="accordion-body">We review your devices, network, cloud accounts, backups and security settings, then send you a short report with risks and recommended fixes. There's no obligation to buy.</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#f2">How much do your services cost?</button>
+                    </h3>
+                    <div id="f2" class="accordion-collapse collapse" data-bs-parent="#faqs">
+                        <div class="accordion-body">Pricing depends on your number of users, devices and the services you choose. [Add starting price, e.g. &quot;Plans start from $X per user per month.&quot;]</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#f3">How fast do you respond to issues?</button>
+                    </h3>
+                    <div id="f3" class="accordion-collapse collapse" data-bs-parent="#faqs">
+                        <div class="accordion-body">Our help desk is available 24/7. Urgent issues get a response within [X minutes/hours].</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#f4">Can you work with our existing IT setup?</button>
+                    </h3>
+                    <div id="f4" class="accordion-collapse collapse" data-bs-parent="#faqs">
+                        <div class="accordion-body">Yes. We can take over your current systems, work alongside an in-house IT person, or help you migrate to something better.</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#f5">Which areas do you serve?</button>
+                    </h3>
+                    <div id="f5" class="accordion-collapse collapse" data-bs-parent="#faqs">
+                        <div class="accordion-body">[List your service area, e.g. on-site in New York City and remote support across the US.]</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="pt-0">
+        <div class="container">
+            <div class="cwrap reveal">
+                <div class="row align-items-center g-5 position-relative">
+                    <div class="col-lg-6">
+                        <h2 class="sec-title">Stop worrying about IT. Start growing.</h2>
+                        <p class="fs-5 my-4" style="opacity:.92">Book your free assessment today, or talk to an engineer now.</p>
+                        <a href="tel:" class="btn btn-line btn-lg" style="color:#fff;border-color:#fff">
+                            <i class="bi bi-telephone me-2"></i>Call Us
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <form id="lead" class="form-card">
+                            <h3 class="h4">Get your free IT assessment</h3>
+                            <p class="text-mut small">Tell us about your setup. An engineer will reply within 24 business hours.</p>
+                            <div class="row g-3">
+                                <div class="col-12">
+                                    <label class="form-label" for="n">Full name</label>
+                                    <input
+                                        id="n"
+                                        class="form-control"
+                                        type="text"
+                                        autocomplete="name"
+                                        required
+                                        placeholder="Jane Smith">
+                                </div>
+                                <div class="col-md-6">
+                                    <label class="form-label" for="e">Work email</label>
+                                    <input
+                                        id="e"
+                                        class="form-control"
+                                        type="email"
+                                        autocomplete="email"
+                                        required
+                                        placeholder="jane@company.com">
+                                </div>
+                                <div class="col-md-6">
+                                    <label class="form-label" for="p">Phone</label>
+                                    <input
+                                        id="p"
+                                        class="form-control"
+                                        type="tel"
+                                        autocomplete="tel"
+                                        placeholder="Optional">
+                                </div>
+                                <div class="col-md-6">
+                                    <label class="form-label" for="s">Company size</label>
+                                    <select id="s" class="form-select">
+                                        <option>1–10</option>
+                                        <option>11–50</option>
+                                        <option>51–200</option>
+                                        <option>200+</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-6">
+                                    <label class="form-label" for="h">I need help with</label>
+                                    <select id="h" class="form-select">
+                                        <option>Managed IT</option>
+                                        <option>Cyber Security</option>
+                                        <option>Cloud Computing</option>
+                                        <option>Data Services</option>
+                                        <option>IT Consulting</option>
+                                    </select>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-main w-100 py-3" type="submit">Book my free assessment</button>
+                                </div>
+                            </div>
+                            <p class="small text-mut text-center mt-3 mb-0">No obligation. We never share your details.
+                                <a href="">Privacy Policy</a>
+                            </p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <?php include 'footer.php' ?>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
